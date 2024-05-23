@@ -1,11 +1,4 @@
-Style,Standard
-Append Mode,1
-Fill Mode,1
-Capacity,100000
-Count,1197
-Base Time Seconds,1716458223
-Base Time Fractional,.867998320
-Base Time,05/23/2024 09:57:03.867998320
+
 Reading,Unit,Range Digits,Disp Digits,Math,Start Group,Limit1 High,Limit1 Low,Limit2 High,Limit2 Low,Terminal,Questionable,Origin,Value,Unit,Digits,Output,Sense,Source Limit,Overtemp,Relative Time
 6.100577110146e-08,Amp DC,.0000001,5.5,F,F,F,F,F,F,Front,F,Main,0.0003189072595,Volt DC,10,T,2W,F,F,0.000000000
 1.790440506966e-07,Amp DC,.000001,5.5,F,F,F,F,F,F,Front,F,Main,0.0148760136217,Volt DC,10,T,2W,F,F,0.961412120
