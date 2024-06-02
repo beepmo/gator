@@ -1,0 +1,114 @@
+# Week of 24-05-27
+
+## github
+https://github.com/beepmo/gator
+
+## Overview
+
+Our timetable is what we have planned. 
+Our [github](https://github.com/beepmo/gator
+) records what we actually did.
+
+This week, we prepare for two milestones:
+- presenting at the MBE group meeting on Tuesday
+- initiating experiments towards both tickets as soon as chemicals arrive — by Friday, subject to catastrophe.
+
+
+
+|               | Mon                                        | Tue                            | Wed              | Thurs                   | Fri            |
+| ------------- | ------------------------------------------ | ------------------------------ | ---------------- | ----------------------- | -------------- |
+| **Morning**   | 1000-1200 meet to prepare for presentation | 1000 rehearse presentation     | 1000 ticket foci | 1000 ticket foci        | A ticket       |
+|               |                                            |                                |                  |                         |                |
+| **Afternoon** |                                            | 1300 present at group meeting! |                  | 1400 attend mma meeting | Another ticket |
+
+
+
+
+## Inventory
+
+- [Cart at Sigma Aldrich](https://www.sigmaaldrich.com/CA/en/saved-cart/c8cc7200-0665-11ef-acce-73e1ca42b8b2) ETA Thursday Jun 4
+    - ![image](https://hackmd.io/_uploads/H1fhuTDNR.png)
+
+- [MPP-TFSI from Fisher](https://www.fishersci.ca/shop/products/1-methyl-1-propylpyrrolidinium-bis-trifluoromethanesulfonyl-imide-tci-america-2/m20985g) dispatch Thursday Jun 4, ETA Thursday Jun 10
+- [ketjenblack](https://www.fuelcellstore.com/ketjenblack-carbon-black-ec600jd) receipt received May 22, assume shipped on May 22 via FedEx ground
+
+## Presentation
+
+
+We'd like to present a fundamental understanding of a redox reaction and welcome questions from everyone.
+
+1. Person A: What does the voltage on the standard table of redox potentials mean?
+    - [x] create annotated image
+
+2. Person B: $V$ vs $x$ graphs: from vacuum to ionic liquid. 
+    - [x] create drawings!
+
+3. Person A: Voltage on the standard table refers to potential drop across the capacitor formed by the electric double layer.
+    - [**EDL reference**](https://www.mdpi.com/2673-3293/3/4/52)
+
+Additional details: be prepared to speak on these during Q&A.
+- We can get a rough $V$ vs $x$ graph from a reference electrode.
+    - [x] include drawing with reference electrode
+- Reactions happen always in pairs: reduction and oxidation. Thus, you have to add both reactions to determine the total voltage required.
+- We can present data on the hydrolysis of pure water.
+    - [ ] annotate data notebook
+
+
+## Ticket foci
+
+### Lithium electrode fabrication
+
+Experiment planning:
+- [ ] meet the ingredients
+    - [ ] review MSDS for all chemicals
+    - [ ] [binder review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8473138/) & any relevant articles: What is the highest acceptable water proportion in initial slurry?
+  
+- [ ] calculate quantities 
+- [ ] meet the equipment
+- [ ] big step: write procedures
+
+##### Commercial LMN electrode
+Gift from Bahar: https://www.mtixtl.com/Li-IonBatteryCathode-bc-af-241mn-ds.aspx
+
+- [ ] check specs & reactions
+
+### Electrochemical Impedance Spectroscopy
+- [ ] Read this [article](https://pubs.acs.org/doi/epdf/10.1021/acsmeasuresciau.2c00070) on the subject 
+- [ ] 
+
+
+### Detecting water electrolysis in ionic liquid 
+
+- [x] Complete Yibing online safety training!
+
+Experiment planning:
+- meet the HMIM-TFSI ionic liquid
+    - [ ] review MSDS (no pH data available T^T)
+    - [ ] review [Karl Fischer titration](https://en.wikipedia.org/wiki/Karl_Fischer_titration): how do people determine water content?
+    - [ ] in round-robin studies of HMIM-TFSI:
+        - [Part 1: experimental methods and results](https://www.nist.gov/publications/thermodynamic-and-thermophysical-properties-reference-ionic-liquid-1-hexyl-3)
+            - track changes in $w(H_2O)$ throughout various experiments
+        - [Part 2: critical evaluation](https://www.degruyter.com/document/doi/10.1351/PAC-REP-08-09-22/html?_llca=transfer%3A7772f5cf4e88d21caa9740949ee6e50d&_llch=be54cf61ae786d68bd48b5cc5bc50f30fd1c69baf8f171dbff7ac4594b409b46)
+            - note results on electrolytic conductivity vs water mole fraction
+            - pursue references on the measurement of electrolytic conductivity: how were the experiments set up?
+
+- dry run: build the electrode set-up. Choose freely from any available electrode/glassware. Apply voltage scan with the Keithley in a liquidless set-up.
+
+
+
+Data analysis:
+- Compare with deionized water control test.
+
+
+### Miscellaneous
+- [x] pick up polymer separator from Bahar
+- [x] order PCB components
+    - [x] visit LSK basement
+- [ ] Inspect substrates
+
+
+Next ideas : 
+- [ ] in situ XRD (while we do the gating)
+- [ ] XRD at the end if we don't maange the 1st one 
+- [ ] ionic conductivity withe EIS
+
