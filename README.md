@@ -1,7 +1,7 @@
 # The gator project
 Process of a physics publication, from data to tickets.  
 
-Link and abstract shall go here when publish happens.
+Abstract shall go here.
 
   **@Quantum Matter Institute, University of British Columbia**
   
